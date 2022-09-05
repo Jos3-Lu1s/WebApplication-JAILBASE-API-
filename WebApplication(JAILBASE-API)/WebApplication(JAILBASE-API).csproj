@@ -69,8 +69,17 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="index.aspx" />
+    <Content Include="Media\logo.svg" />
+    <None Include="Scripts\jquery\jquery-3.6.0.intellisense.js" />
+    <Content Include="Scripts\jquery\jquery-3.6.0.js" />
+    <Content Include="Scripts\jquery\jquery-3.6.0.min.js" />
+    <Content Include="Scripts\jquery\jquery-3.6.0.slim.js" />
+    <Content Include="Scripts\jquery\jquery-3.6.0.slim.min.js" />
+    <Content Include="Scripts\Select2\select2.min.css" />
+    <Content Include="Scripts\Select2\select2.min.js" />
     <Content Include="Style\Bootstrap\bootstrap.bundle.min.js" />
     <Content Include="Style\Bootstrap\bootstrap.min.css" />
+    <Content Include="Style\css\style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -89,6 +98,8 @@
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Style\Bootstrap\bootstrap.min.css.map" />
+    <Content Include="Scripts\jquery\jquery-3.6.0.slim.min.map" />
+    <Content Include="Scripts\jquery\jquery-3.6.0.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
