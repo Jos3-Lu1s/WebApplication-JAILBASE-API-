@@ -11,8 +11,15 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-        </div>
+        <header>
+
+        </header>
+        <main>
+
+        </main>
+        <footer>
+
+        </footer>
     </form>
     <script src="Style/Bootstrap/bootstrap.bundle.min.js"></script>
 </body>
