@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="WebApplication_JAILBASE_API_.index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Async="true" Inherits="WebApplication_JAILBASE_API_.index" %>
 
 <!DOCTYPE html>
 
